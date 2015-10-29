@@ -3,7 +3,7 @@
 
 > split an array into arbitrary length pieces
 
-# install
+##### install
 
 ```
 npm install --save blow-chunks
