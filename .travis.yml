@@ -1,0 +1,10 @@
+env:
+  - CODECLIMATE_REPO_TOKEN=tokengoeshere
+language: node_js
+node_js:
+  - '0.12'
+  - '0.11'
+  - '0.10'
+after_script:
+  - npm test --coverage
+  - codeclimate-test-reporter < coverage/lcov.info
