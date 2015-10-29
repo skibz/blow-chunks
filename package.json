@@ -1,6 +1,6 @@
 {
   "name": "blow-chunks",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "split an array into arbitrary length pieces",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,10 @@
     "istanbul": "0.3.22",
     "mocha": "2.3.3"
   },
-  "keywords": ["array", "chunk"],
+  "keywords": [
+    "array",
+    "chunk"
+  ],
   "author": "Ant Cosentino <ant@io.co.za>",
   "license": "ISC"
 }
