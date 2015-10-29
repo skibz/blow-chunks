@@ -1,5 +1,5 @@
 
-# blow-chunks [![Build Status](https://travis-ci.org/skibz/blow-chunks.svg)](https://travis-ci.org/skibz/blow-chunks)
+# blow-chunks [![Build Status](https://travis-ci.org/skibz/blow-chunks.svg)](https://travis-ci.org/skibz/blow-chunks) [![Code Climate](https://codeclimate.com/github/skibz/blow-chunks/badges/gpa.svg)](https://codeclimate.com/github/skibz/blow-chunks) [![Test Coverage](https://codeclimate.com/github/skibz/blow-chunks/badges/coverage.svg)](https://codeclimate.com/github/skibz/blow-chunks/coverage)
 
 > split an array into arbitrary length pieces
 
