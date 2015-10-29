@@ -1,5 +1,5 @@
 env:
-  - CODECLIMATE_REPO_TOKEN=tokengoeshere
+  - CODECLIMATE_REPO_TOKEN=325c6fb13f910614a91c0a8dc530c4f8a966e2815f7682e41d455569a2cb6148
 language: node_js
 node_js:
   - '0.12'
