@@ -1,5 +1,5 @@
 
-# blow-chunks
+# blow-chunks [![Build Status](https://travis-ci.org/skibz/blow-chunks.svg)](https://travis-ci.org/skibz/blow-chunks)
 
 > split an array into arbitrary length pieces
 
