@@ -5,7 +5,7 @@
 
 ##### install
 
-```
+```bash
 npm install --save blow-chunks
 ```
 
@@ -13,7 +13,7 @@ npm install --save blow-chunks
 
 there's nothing to it...
 
-```
+```javascript
 var chunk = require('blow-chunks');
 chunk([1, 2, 3, 4, 5, 6], 2);
 // [[1, 2], [3, 4], [5, 6]]
