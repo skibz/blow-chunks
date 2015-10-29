@@ -1,6 +1,6 @@
 {
   "name": "blow-chunks",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "split an array into arbitrary length pieces",
   "main": "index.js",
   "scripts": {
