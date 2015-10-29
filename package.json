@@ -1,0 +1,23 @@
+{
+  "name": "blow-chunks",
+  "version": "0.0.0",
+  "description": "split an array into arbitrary length pieces",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul test _mocha -- -R spec",
+    "coverage": "istanbul cover _mocha --report lcovonly -- test -R spec"
+  },
+  "bugs": {
+    "url": "https://github.com/skibz/taciturn-tatertot/issues",
+    "email": "ant@io.co.za"
+  },
+  "devDependencies": {
+    "chai": "3.3.0",
+    "codeclimate-test-reporter": "0.1.1",
+    "istanbul": "0.3.22",
+    "mocha": "2.3.3"
+  },
+  "keywords": ["array", "chunk"],
+  "author": "Ant Cosentino <ant@io.co.za>",
+  "license": "ISC"
+}
