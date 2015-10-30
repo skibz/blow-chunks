@@ -15,6 +15,6 @@ npm install --save blow-chunks
 
 ```javascript
 var chunk = require('blow-chunks');
-chunk.call([1, 2, 3, 4, 5, 6], 2);
+chunk([1, 2, 3, 4, 5, 6], 2);
 // [[1, 2], [3, 4], [5, 6]]
 ```
